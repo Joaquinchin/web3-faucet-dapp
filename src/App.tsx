@@ -1,4 +1,5 @@
 // src/App.tsx
+// Web3 Faucet dApp - Implementación completa con SIWE y distribución de tokens
 import ConnectButton from './components/conectButton'
 import NetworkGate from './components/PuertaNetwork'
 import FaucetInfo from './components/faucetInfo'
